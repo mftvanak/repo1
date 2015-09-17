@@ -1,3 +1,3 @@
 <?php
-	echo "user1";
+	echo "user2";
 ?>
